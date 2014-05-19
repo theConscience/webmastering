@@ -1,5 +1,5 @@
 .outer {
-	background-color: olive;
+
 	color: white;
 	font: 1em Arial,sans-serif;
 	width: 300px;
@@ -9,5 +9,9 @@
 	padding: 5px;
 	border: 1px solid #000;
 	border-radius: 5px;
+	background-color: olive;
+}
 
+div:hover {
+	background-color: black;
 }
