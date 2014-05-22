@@ -1,0 +1,63 @@
+body {
+
+}
+div {
+	font: 15px Arial,sans-serif;
+		clear: right;
+}
+.outer {
+
+	color: white;
+	width: 300px;
+}
+
+.inner {
+	padding: 5px;
+	border: 1px solid #000;
+	border-radius: 5px;
+	background-color: olive;
+}
+
+div:hover {
+	background-color: black;
+	color:deepskyblue;
+}
+
+li {
+	font: 15px Arial,sans-serif;
+	display:inline-block;
+	vertical-align: top;
+	width: 40%;
+
+}
+
+/* planner */
+
+h2 {
+    font-family:arial;
+}
+
+form {
+    display: inline-block;
+}
+
+#button{
+    display: inline-block;
+    height:20px;
+	width:70px;
+	background-color:#cc0000;
+	font-family:arial;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius: 5px;
+	text-align:center;
+	margin-top:2px;
+}
+
+.list {
+	font-family:garamond;
+	color:#cc0000;
+}
+
+/*****************************/
+
