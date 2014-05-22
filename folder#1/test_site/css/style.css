@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body {
 
 }
@@ -7,14 +7,9 @@ div {
 		clear: right;
 }
 .outer {
-
-	color: white;
-=======
-.outer {
 	background-color: olive;
 	color: white;
 	font: 1em Arial,sans-serif;
->>>>>>> 0d11895cde623e96e3e2f850416363892389f53b
 	width: 300px;
 }
 
@@ -22,7 +17,6 @@ div {
 	padding: 5px;
 	border: 1px solid #000;
 	border-radius: 5px;
-<<<<<<< HEAD
 	background-color: olive;
 }
 
@@ -69,7 +63,3 @@ form {
 
 /*****************************/
 
-=======
-
-}
->>>>>>> 0d11895cde623e96e3e2f850416363892389f53b
